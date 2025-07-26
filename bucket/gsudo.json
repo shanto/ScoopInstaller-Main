@@ -21,13 +21,7 @@
             "extract_dir": "arm64"
         }
     },
-    "env_add_path": ".",
-    "bin": [
-        [
-            "gsudo.exe",
-            "sudo"
-        ]
-    ],
+    "bin": "gsudo.exe",
     "psmodule": {
         "name": "gsudoModule"
     },
