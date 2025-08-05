@@ -1,11 +1,11 @@
 {
-    "version": "3.5.15",
+    "version": "3.6.2",
     "description": "Algol 68 compiler-interpreter",
     "homepage": "https://jmvdveer.home.xs4all.nl/en.algol-68-genie.html",
     "license": "GPL-3.0-only",
-    "url": "https://jmvdveer.home.xs4all.nl/algol68g-3.5.15.win32.zip",
-    "hash": "d2b4a05128b4375d4d5c193fd9ce9c34e5ae2f4f2645fbfcf1135f83d71caa38",
-    "extract_dir": "algol68g-3.5.15",
+    "url": "https://jmvdveer.home.xs4all.nl/algol68g-3.6.2.win32.zip",
+    "hash": "29ad1a412d35b138421a7dfed4e7cc7c8cdf979bd9d86003f4acc05f7701a2c9",
+    "extract_dir": "algol68g-3.6.2",
     "bin": "bin/a68g.exe",
     "checkver": {
         "url": "https://jmvdveer.home.xs4all.nl/en.download.algol-68-genie-current.html",
