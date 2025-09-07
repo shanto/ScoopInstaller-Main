@@ -1,15 +1,15 @@
 {
-    "version": "7.0.0",
+    "version": "7.1.2",
     "description": "Advanced password recovery tool",
     "homepage": "https://hashcat.net/hashcat/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://hashcat.net/files/hashcat-7.0.0.7z",
-            "hash": "19e126642e1db7902125072dce539c53485c721735325a747bd03e8af3135d78"
+            "url": "https://hashcat.net/files/hashcat-7.1.2.7z",
+            "hash": "80db0316387794ce9d14ed376da75b8a7742972485b45db790f5f8260307ff98"
         }
     },
-    "extract_dir": "hashcat-7.0.0",
+    "extract_dir": "hashcat-7.1.2",
     "persist": "hashcat.potfile",
     "pre_install": [
         "Set-Content -Value \"@echo off`r`npushd $dir`r`nhashcat.exe %*`r`npopd\" -Path \"$dir\\hashcat.cmd\"",

@@ -1,18 +1,18 @@
 {
-    "version": "24.5.0",
+    "version": "24.7.0",
     "description": "An asynchronous event driven JavaScript runtime designed to build scalable network applications.",
     "homepage": "https://nodejs.org",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://nodejs.org/dist/v24.5.0/node-v24.5.0-win-x64.7z",
-            "hash": "d0c25fb9ad8a0a599056e0a68be9d703f849aa3c85528bab2657492b95ca441f",
-            "extract_dir": "node-v24.5.0-win-x64"
+            "url": "https://nodejs.org/dist/v24.7.0/node-v24.7.0-win-x64.7z",
+            "hash": "45d46dc687a2d1ae5c8ba940f9140deeb420da56e0c79a051e8847528e355782",
+            "extract_dir": "node-v24.7.0-win-x64"
         },
         "arm64": {
-            "url": "https://nodejs.org/dist/v24.5.0/node-v24.5.0-win-arm64.7z",
-            "hash": "35ff69ba35647e9b1c19f8c5d4517f6854b0a5545f1fd9bec81964bb13017e49",
-            "extract_dir": "node-v24.5.0-win-arm64"
+            "url": "https://nodejs.org/dist/v24.7.0/node-v24.7.0-win-arm64.7z",
+            "hash": "0fc23dfe5406002c046d65ea344b466f1bd6495e2c1f1a43e35aedd2e236be18",
+            "extract_dir": "node-v24.7.0-win-arm64"
         }
     },
     "persist": [

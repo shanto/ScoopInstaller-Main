@@ -1,18 +1,18 @@
 {
-    "version": "1.16.1",
+    "version": "1.16.3",
     "description": "Official Go implementation of the Ethereum protocol",
     "homepage": "https://geth.ethereum.org",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gethstore.blob.core.windows.net/builds/geth-alltools-windows-amd64-1.16.1-12b4131f.zip",
-            "hash": "md5:ebca7e2e81f777e345dd7a1307a2e17d",
-            "extract_dir": "geth-alltools-windows-amd64-1.16.1-12b4131f"
+            "url": "https://gethstore.blob.core.windows.net/builds/geth-alltools-windows-amd64-1.16.3-d818a9af.zip",
+            "hash": "md5:49c296ba957c749b29fd448547f2b240",
+            "extract_dir": "geth-alltools-windows-amd64-1.16.3-d818a9af"
         },
         "32bit": {
-            "url": "https://gethstore.blob.core.windows.net/builds/geth-alltools-windows-386-1.16.1-12b4131f.zip",
-            "hash": "md5:23ef92459a801c6d6f2209d4b520b387",
-            "extract_dir": "geth-alltools-windows-386-1.16.1-12b4131f"
+            "url": "https://gethstore.blob.core.windows.net/builds/geth-alltools-windows-386-1.16.3-d818a9af.zip",
+            "hash": "md5:1b591f85a4471b22db4945680baae51c",
+            "extract_dir": "geth-alltools-windows-386-1.16.3-d818a9af"
         }
     },
     "bin": [

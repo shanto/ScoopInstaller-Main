@@ -1,16 +1,16 @@
 {
-    "version": "2.2.27",
+    "version": "2.2.29",
     "description": "Unofficial CLI for Cloudflare Warp (Wireguard VPN service)",
     "homepage": "https://github.com/ViRb3/wgcf",
     "license": "MIT",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/ViRb3/wgcf/releases/download/v2.2.27/wgcf_2.2.27_windows_386.exe#/wgcf.exe",
-            "hash": "eeb6d743221645ccbb3c41995b769b1bc5b029b07da45d7d2c1341346af692a6"
+            "url": "https://github.com/ViRb3/wgcf/releases/download/v2.2.29/wgcf_2.2.29_windows_386.exe#/wgcf.exe",
+            "hash": "1724fd9d37978b662278af4732c49e3671ffcbd96959c23b9847409d93fcc9c3"
         },
         "64bit": {
-            "url": "https://github.com/ViRb3/wgcf/releases/download/v2.2.27/wgcf_2.2.27_windows_amd64.exe#/wgcf.exe",
-            "hash": "2bf7b2ff7e91f74172668e06d8f34cb952ea9629e240391eeec7320b046a7f10"
+            "url": "https://github.com/ViRb3/wgcf/releases/download/v2.2.29/wgcf_2.2.29_windows_amd64.exe#/wgcf.exe",
+            "hash": "987d6d14aa2b9873b357c7489097b81004549901b9237bdd15bf1694edc0d609"
         }
     },
     "pre_install": "if (!(Test-Path \"$persist_dir\\wgcf-account.toml\")) { New-Item \"$dir\\wgcf-account.toml\" | Out-Null }",
